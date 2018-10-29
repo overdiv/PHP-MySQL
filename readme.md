@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="database-mysql-개요">Database, MySQL 개요</h1>
 <p><strong>정의</strong><br>
 관련된 데이터가 모여진 집합체<br>
